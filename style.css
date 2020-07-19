@@ -1,0 +1,30 @@
+h1, p {
+  font-family: Lato;
+}
+.UserTile {
+  border: double;
+}
+
+.tile-2{
+    width: 341px;
+    position: relative;
+    left: 855px;
+    height: 175px;
+}
+.tile-1{
+    width: 341px;
+    margin-left: 394px;
+      height: 175px;
+    position: absolute;
+}
+.tile-0{
+    width: 341px;
+    height: 175px;
+    position: absolute;
+    left: 11px;
+}
+
+.grid
+{
+      margin-top: 136px;
+}

@@ -8,3 +8,5 @@ The list of users are fetched from API and displayed on UI as tiles as well as o
 https://github.com/NileshwarShukla/react-redux-flow/blob/master/Screen.PNG
 
 Whenever we click on grid row the respective user tile will get highlighted.
+
+https://github.com/NileshwarShukla/react-redux-flow/blob/master/Screen1.PNG
